@@ -1,7 +1,7 @@
 {
     "name": "@xeno-js/node",
     "version": "1.0.0",
-    "description": "PostgreSQL database module for Xeno.JS",
+    "description": "Native Node.js HTTP server adapter and transport integration for Xeno.js with routing support and TypeScript.",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/xeno-js/node.git"
@@ -50,28 +50,21 @@
         "release:major": "npm version major && npm run changelog && npm run prepublishOnly && npm publish"
     },
     "keywords": [
-        "typescript",
-        "javascript",
         "xeno",
         "xeno-js",
         "xeno.js",
+        "node",
         "nodejs",
         "node.js",
-        "framework",
-        "application-framework",
-        "application-architecture",
-        "dependency-injection",
-        "ioc",
-        "ddd",
-        "domain-driven-design",
-        "cqrs",
-        "clean-architecture",
-        "hexagonal-architecture",
-        "modular-architecture",
-        "request-context",
-        "service-container",
-        "pipeline",
-        "repository-pattern"
+        "http server",
+        "native http",
+        "transport adapter",
+        "routing",
+        "typescript",
+        "typescript backend",
+        "dependency injection",
+        "clean architecture",
+        "hexagonal architecture"
     ],
     "author": "Xeno",
     "license": "MIT",
