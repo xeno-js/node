@@ -1,6 +1,6 @@
 {
     "name": "@xeno-js/node",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "PostgreSQL database module for Xeno.JS",
     "repository": {
         "type": "git",
